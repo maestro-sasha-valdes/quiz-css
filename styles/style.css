@@ -1,0 +1,25 @@
+/* Emplear la fuente Source Sans Pro de Google Fonts */
+
+
+
+
+
+body{
+    background-color: rgb(247, 247, 247);
+    margin: 0;
+}
+
+main {
+    position: absolute;
+    background-color: white;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    width: 70%;
+    height: 30%;
+    padding: 30px;
+    box-shadow: 0px 0px 6px #000;
+}
+
